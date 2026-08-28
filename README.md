@@ -1,11 +1,11 @@
-🚗 Vehicle Fitness Data Analysis & Prediction
+Vehicle Fitness Data Analysis & Prediction
 
-📌 Project Overview
+Project Overview
 
 This project analyzes vehicle fitness data using a real-world transport dataset.  
 It applies data cleaning, exploratory data analysis (EDA), visualization, and machine learning to understand patterns and predict vehicle fitness certificate validity.
 
-🎯 Objectives
+Objectives
 
 * Analyze vehicle fitness status distribution  
 * Identify expired and soon-to-expire vehicles  
@@ -13,15 +13,15 @@ It applies data cleaning, exploratory data analysis (EDA), visualization, and ma
 * Understand the relationship between vehicle age and fitness validity  
 * Build a predictive model for validity duration  
 
-📊 Key Insights
+Key Insights
 
-* 🚗 Majority of vehicles are in approved fitness status  
-* ⏳ Older vehicles tend to have shorter validity periods  
-* 🏢 Some offices issue more fitness certificates than others  
-* 📈 Fitness certificate trends vary over time  
-* 🤖 Model shows relationship between vehicle age and validity  
+*  Majority of vehicles are in approved fitness status  
+*  Older vehicles tend to have shorter validity periods  
+*  Some offices issue more fitness certificates than others  
+*  Fitness certificate trends vary over time  
+*  Model shows relationship between vehicle age and validity  
 
-🛠 Technologies Used
+ Technologies Used
 
 * Python  
 * Pandas  
@@ -29,7 +29,7 @@ It applies data cleaning, exploratory data analysis (EDA), visualization, and ma
 * Matplotlib  
 * Scikit-learn  
 
-📁 Project Structure
+ Project Structure
 
 Vehicle-Fitness-Analysis/
 │
@@ -38,7 +38,7 @@ Vehicle-Fitness-Analysis/
 ├── README.md  
 ├── requirements.txt  
 
-⚙️ Features
+ Features
 
 ✔ Data cleaning and preprocessing  
 ✔ Date-time conversion  
@@ -48,7 +48,7 @@ Vehicle-Fitness-Analysis/
 ✔ Machine Learning model (Linear Regression)  
 ✔ Prediction of fitness validity  
 
-📈 Visualizations Included
+ Visualizations Included
 
 * Vehicle fitness status bar chart  
 * Vehicle class vs fitness stacked chart  
@@ -57,7 +57,7 @@ Vehicle-Fitness-Analysis/
 * Validity distribution histogram  
 * Vehicle age vs validity scatter plot with regression line  
 
-🤖 Machine Learning
+ Machine Learning
 
 * Model: Linear Regression  
 * Input Feature: Vehicle Age  
@@ -66,7 +66,7 @@ Vehicle-Fitness-Analysis/
   * Mean Absolute Error (MAE)  
   * R² Score  
 
-▶️ How to Run
+ How to Run
 
 1. Install required libraries:
 
@@ -76,11 +76,11 @@ pip install -r requirements.txt
 
 python analysis.py
 
-📌 Conclusion
+ Conclusion
 
 This project demonstrates how data analysis and machine learning can be applied to real-world transport data to monitor vehicle fitness and predict certificate validity. It highlights the importance of vehicle age in determining fitness duration.
 
-👨‍💻 Author
+ Author
 
 **Saketh Reddy Ambati**
 
